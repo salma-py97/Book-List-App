@@ -1,0 +1,18 @@
+.alert{
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+}
+.success{
+    background-color: green;
+}
+.error{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+    color: coral;
+}
